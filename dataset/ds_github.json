@@ -16,7 +16,7 @@
 			"location": {
 				"type": "HttpServerLocation",
 				"relativeUrl": {
-					"value": "kdeepika11/uberDEProject/refs/heads/UberADF/Data/dateset().@{dataset().p_file}",
+					"value": "kdeepika11/uberDEProject/refs/heads/UberADF/Data/@{dataset().p_file}",
 					"type": "Expression"
 				}
 			}
